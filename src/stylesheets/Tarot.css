@@ -1,3 +1,5 @@
+@import "instruction.css"; 
+
 .tarot-container{
   border-top: 2px solid #c3c3c3;
   height: 100vh;

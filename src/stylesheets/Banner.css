@@ -1,8 +1,6 @@
+@import "instruction.css"; 
+
 #banner{
   height: 100vh;
   padding-top:15%;
-}
-
-#banner .start{
-  margin-top: 20px;
 }

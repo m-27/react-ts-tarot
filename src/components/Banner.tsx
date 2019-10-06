@@ -7,11 +7,10 @@ class Banner extends React.Component {
     return (
       <div id="banner">
 				<h1>Ｗelcome Tarot World</h1>
-        <button type="button" className="btn btn-info start">占卜</button>
+        <button type="button" className="btn btn-info mt10">占卜</button>
       </div>
     );
   }
 }
 
 export default Banner;
-``
